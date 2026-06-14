@@ -3,8 +3,9 @@ package com.mycompany.poepartthree;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 /**
- *
+ *  Login Class handles user registration and authentication
  * @author kvmaq
  */
 public class Login {
